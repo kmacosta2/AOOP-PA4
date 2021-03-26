@@ -1,0 +1,179 @@
+From First Name,From Last Name,From Where,Action,To First Name,To Last Name,To Where,Action Amount
+Mickey,Mouse,Checking,pays,Donald,Duck,Checking,100
+Mickey,Mouse,Savings,transfers,Mickey,Mouse,Checking,400
+Mickey,Mouse,Savings,inquires,,,,
+Mickey,Mouse,Checking,withdraws,,,,100
+,,,deposits,Mickey,Mouse,Savings,500
+Mickey,Mouse,Savings,transfers,Mickey,Mouse,Credit,300
+,,,deposits,Abed,Ali,Checking,5000
+,,,deposits,Acosta,Kevin,Checking,5000
+,,,deposits,Aguirre,Antonio,Checking,5000
+,,,deposits,Anderson,Madison,Checking,5000
+,,,deposits,Aofia,Kevin,Checking,5000
+,,,deposits,Armendariz,Angel,Checking,5000
+,,,deposits,Atiyeh,Nadia,Checking,5000
+,,,deposits,Avila,Nicole,Checking,5000
+,,,deposits,Carrera Pio,Andrea,Checking,5000
+,,,deposits,Davila,Luis,Checking,5000
+,,,deposits,De La Torre,Vincent,Checking,5000
+,,,deposits,Escobedo,Oswaldo,Checking,5000
+,,,deposits,Espino,Ivan,Checking,5000
+,,,deposits,Garcia,Julio,Checking,5000
+,,,deposits,Garcia Tovar,Mauricio,Checking,5000
+,,,deposits,Gomez,Denise,Checking,5000
+,,,deposits,Gonzalez,Paulie Jo,Checking,5000
+,,,deposits,Guerrero,Raul,Checking,5000
+,,,deposits,Herrera,Matthew,Checking,5000
+,,,deposits,Kish,Ethan,Checking,5000
+,,,deposits,Licon,Diana,Checking,5000
+,,,deposits,Loyda,Dustyn,Checking,5000
+,,,deposits,Macias,Mario,Checking,5000
+,,,deposits,Moreno,Daniel,Checking,5000
+,,,deposits,Moreno,Jacob,Checking,5000
+,,,deposits,Moreno,Kevin,Checking,5000
+,,,deposits,Munoz,Leonardo,Checking,5000
+,,,deposits,Nolasco,Francisco,Checking,5000
+,,,deposits,Orozco,Roberto,Checking,5000
+,,,deposits,Pele,Elijah,Checking,5000
+,,,deposits,Perez,Omar,Checking,5000
+,,,deposits,Quinones Rodriguez,Diego,Checking,5000
+,,,deposits,Rabelo,Juan,Checking,5000
+,,,deposits,Ramos,Angel,Checking,5000
+,,,deposits,Retana,Efrain,Checking,5000
+,,,deposits,Richart Ruiz,Hector,Checking,5000
+,,,deposits,Rodriguez,Andrew,Checking,5000
+,,,deposits,Salas,Joel,Checking,5000
+,,,deposits,Sanchez,David,Checking,5000
+,,,deposits,Sanchez Jr,Jose,Checking,5000
+,,,deposits,Schlosser,Madison,Checking,5000
+,,,deposits,Trinh,Dillon,Checking,5000
+,,,deposits,Valdez,Stephanie,Checking,5000
+Abed,Ali,Checking,pays,Daniel,Mejia,Checking,1000
+Acosta,Kevin,Checking,pays,Daniel,Mejia,Checking,1000
+Aguirre,Antonio,Checking,pays,Daniel,Mejia,Checking,1000
+Anderson,Madison,Checking,pays,Daniel,Mejia,Checking,1000
+Aofia,Kevin,Checking,pays,Daniel,Mejia,Checking,1000
+Armendariz,Angel,Checking,pays,Daniel,Mejia,Checking,1000
+Atiyeh,Nadia,Checking,pays,Daniel,Mejia,Checking,1000
+Avila,Nicole,Checking,pays,Daniel,Mejia,Checking,1000
+Carrera Pio,Andrea,Checking,pays,Daniel,Mejia,Checking,1000
+Davila,Luis,Checking,pays,Daniel,Mejia,Checking,1000
+De La Torre,Vincent,Checking,pays,Daniel,Mejia,Checking,1000
+Escobedo,Oswaldo,Checking,pays,Daniel,Mejia,Checking,1000
+Espino,Ivan,Checking,pays,Daniel,Mejia,Checking,1000
+Garcia,Julio,Checking,pays,Daniel,Mejia,Checking,1000
+Garcia Tovar,Mauricio,Checking,pays,Daniel,Mejia,Checking,1000
+Gomez,Denise,Checking,pays,Daniel,Mejia,Checking,1000
+Gonzalez,Paulie Jo,Checking,pays,Daniel,Mejia,Checking,1000
+Guerrero,Raul,Checking,pays,Daniel,Mejia,Checking,1000
+Herrera,Matthew,Checking,pays,Daniel,Mejia,Checking,1000
+Kish,Ethan,Checking,pays,Daniel,Mejia,Checking,1000
+Licon,Diana,Checking,pays,Daniel,Mejia,Checking,1000
+Loyda,Dustyn,Checking,pays,Daniel,Mejia,Checking,1000
+Macias,Mario,Checking,pays,Daniel,Mejia,Checking,1000
+Moreno,Daniel,Checking,pays,Daniel,Mejia,Checking,1000
+Moreno,Jacob,Checking,pays,Daniel,Mejia,Checking,1000
+Moreno,Kevin,Checking,pays,Daniel,Mejia,Checking,1000
+Munoz,Leonardo,Checking,pays,Daniel,Mejia,Checking,1000
+Nolasco,Francisco,Checking,pays,Daniel,Mejia,Checking,1000
+Orozco,Roberto,Checking,pays,Daniel,Mejia,Checking,1000
+Pele,Elijah,Checking,pays,Daniel,Mejia,Checking,1000
+Perez,Omar,Checking,pays,Daniel,Mejia,Checking,1000
+Quinones Rodriguez,Diego,Checking,pays,Daniel,Mejia,Checking,1000
+Rabelo,Juan,Checking,pays,Daniel,Mejia,Checking,1000
+Ramos,Angel,Checking,pays,Daniel,Mejia,Checking,1000
+Retana,Efrain,Checking,pays,Daniel,Mejia,Checking,1000
+Richart Ruiz,Hector,Checking,pays,Daniel,Mejia,Checking,1000
+Rodriguez,Andrew,Checking,pays,Daniel,Mejia,Checking,1000
+Salas,Joel,Checking,pays,Daniel,Mejia,Checking,1000
+Sanchez,David,Checking,pays,Daniel,Mejia,Checking,1000
+Sanchez Jr,Jose,Checking,pays,Daniel,Mejia,Checking,1000
+Schlosser,Madison,Checking,pays,Daniel,Mejia,Checking,1000
+Trinh,Dillon,Checking,pays,Daniel,Mejia,Checking,1000
+Valdez,Stephanie,Checking,pays,Daniel,Mejia,Checking,1000
+Daniel,Mejia,Checking,inquires,,,,
+Mickey,Mouse,Savings,withdraws,,,,100
+Donald,Duck,Checking,pays,Abed,Ali,Checking,48.46
+Minnie,Mouse,Savings,withdraws,,,,79
+Goofy,Disney,Checking,pays,Acosta,Kevin,Checking,15.63
+Pluto,Disney,Savings,withdraws,,,,77
+Chip,Disney,Checking,pays,Aguirre,Antonio,Checking,50.99
+Dale,Disney,Savings,withdraws,,,,54
+Cinderella,Disney,Checking,pays,Anderson,Madison,Checking,28.81
+Ariel,Disney,Savings,withdraws,,,,57
+Jasmine,Disney,Checking,pays,Aofia,Kevin,Checking,28.89
+Aladdin,Disney,Savings,withdraws,,,,94
+Simba,Disney,Checking,pays,Armendariz,Angel,Checking,39.29
+Mufassa,Disney,Savings,withdraws,,,,67
+Aurora,Disney,Checking,pays,Atiyeh,Nadia,Checking,34.47
+Peter,Pan,Savings,withdraws,,,,100
+Woody,Disney,Checking,pays,Avila,Nicole,Checking,34.04
+Buzz,Lightyear,Savings,withdraws,,,,90
+Jafar,Aladdin,Checking,pays,Carrera Pio,Andrea,Checking,12.36
+Ursela,Mermaid,Savings,withdraws,,,,56
+Beast,Disney,Checking,pays,Davila,Luis,Checking,26.84
+Belle,Disney,Savings,withdraws,,,,88
+Cruella,De Vil,Checking,pays,De La Torre,Vincent,Checking,34.7
+Scar,Lion,Savings,withdraws,,,,65
+Simba,King,Checking,pays,Escobedo,Oswaldo,Checking,11.31
+Gaston,Disney,Savings,withdraws,,,,78
+Shere,Khan,Checking,pays,Espino,Ivan,Checking,41.2
+Captaiin,Hook,Savings,withdraws,,,,86
+Kaa,Disney,Checking,pays,Garcia,Julio,Checking,11.83
+Evil,Queen,Savings,withdraws,,,,86
+Pinocchio,Disney,Checking,pays,Garcia Tovar,Mauricio,Checking,34.11
+Prince,Eric,Savings,withdraws,,,,57
+Quasimodo,Disney,Checking,pays,Gomez,Denise,Checking,25.58
+Hercules,Disney,Savings,withdraws,,,,85
+Mulan,Disney,Checking,pays,Gonzalez,Paulie Jo,Checking,36.48
+Lilo,Disney,Savings,withdraws,,,,59
+Stitch,Disney,Checking,pays,Guerrero,Raul,Checking,29.25
+Gaston,Disney,Savings,withdraws,,,,74
+Mickey,Mouse,Checking,pays,Herrera,Matthew,Checking,17.97
+Donald,Duck,Savings,withdraws,,,,91
+Minnie,Mouse,Checking,pays,Kish,Ethan,Checking,29.5
+Goofy,Disney,Savings,withdraws,,,,81
+Pluto,Disney,Checking,pays,Licon,Diana,Checking,39.92
+Chip,Disney,Savings,withdraws,,,,75
+Dale,Disney,Checking,pays,Loyda,Dustyn,Checking,50.39
+Cinderella,Disney,Savings,withdraws,,,,79
+Ariel,Disney,Checking,pays,Macias,Mario,Checking,46.88
+Jasmine,Disney,Savings,withdraws,,,,59
+Aladdin,Disney,Checking,pays,Moreno,Daniel,Checking,25.16
+Simba,Disney,Savings,withdraws,,,,100
+Mufassa,Disney,Checking,pays,Moreno,Jacob,Checking,33.54
+Mickey,Mouse,Savings,pays,Moreno,Kevin,Checking,48.46
+Donald,Duck,Checking,withdraws,,,,79
+Minnie,Mouse,Savings,pays,Munoz,Leonardo,Checking,15.63
+Goofy,Disney,Checking,withdraws,,,,77
+Pluto,Disney,Savings,pays,Nolasco,Francisco,Checking,50.99
+Chip,Disney,Checking,withdraws,,,,54
+Dale,Disney,Savings,pays,Orozco,Roberto,Checking,28.81
+Cinderella,Disney,Checking,withdraws,,,,57
+Ariel,Disney,Savings,pays,Pele,Elijah,Checking,28.89
+Jasmine,Disney,Checking,withdraws,,,,94
+Aladdin,Disney,Savings,pays,Perez,Omar,Checking,39.29
+Simba,Disney,Checking,withdraws,,,,67
+Mufassa,Disney,Savings,pays,Quinones Rodriguez,Diego,Checking,34.47
+Aurora,Disney,Checking,withdraws,,,,100
+Peter,Pan,Savings,pays,Rabelo,Juan,Checking,34.04
+Woody,Disney,Checking,withdraws,,,,90
+Buzz,Lightyear,Savings,pays,Ramos,Angel,Checking,12.36
+Jafar,Aladdin,Checking,withdraws,,,,56
+Ursela,Mermaid,Savings,pays,Retana,Efrain,Checking,26.84
+Beast,Disney,Checking,withdraws,,,,88
+Belle,Disney,Savings,pays,Richart Ruiz,Hector,Checking,34.7
+Cruella,De Vil,Checking,withdraws,,,,65
+Scar,Lion,Savings,pays,Rodriguez,Andrew,Checking,11.31
+Simba,King,Checking,withdraws,,,,78
+Gaston,Disney,Savings,pays,Salas,Joel,Checking,41.2
+Shere,Khan,Checking,withdraws,,,,86
+Captaiin,Hook,Savings,pays,Sanchez,David,Checking,11.83
+Evil,Queen,Savings,withdraws,,,,86
+Pinocchio,Disney,Checking,pays,Sanchez Jr,Jose,Checking,34.11
+Prince,Eric,Savings,withdraws,,,,57
+Quasimodo,Disney,Checking,pays,Schlosser,Madison,Checking,25.58
+Hercules,Disney,Savings,withdraws,,,,85
+Mulan,Disney,Checking,pays,Trinh,Dillon,Checking,36.48
+Lilo,Disney,Savings,withdraws,,,,59
+Stitch,Disney,Checking,pays,Valdez,Stephanie,Checking,29.25
